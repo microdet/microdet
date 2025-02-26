@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @microdet
 - 👀 I’m interested in developing new tools for fun, for my work.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and powershell
 
 
 <!---
